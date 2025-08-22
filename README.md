@@ -47,9 +47,16 @@
   - **🎯 Features:** User authentication, restaurant voting, real-time results, caching
   - **📊 API Docs:** Complete Swagger UI with interactive documentation
 
----
-
-### 📚 Learning Journey
+- [🔭 **Calories Management System**](https://github.com/c0brr/calories-management) - Spring/JPA Enterprise application with authentication and role-based access
+  - **🎯 Purpose:** Calorie tracking system with role-based access control (USER, ADMIN)
+  - **⚙️ Tech Stack:** Java 17+, Spring MVC, Spring Security, Spring Data JPA, Hibernate ORM
+  - **🗄️ Databases:** PostgreSQL, HSQLDB
+  - **📚 Libraries:** Jackson JSON, SLF4J, Hibernate Validator, Ehcache
+  - **🎨 Frontend:** Bootstrap, jQuery, DataTables, JSP/JSTL, WebJars
+  - **🧪 Testing:** JUnit 5, Spring MVC Test, Spring Security Test, Hamcrest, AssertJ
+  - **🛠️ Tools:** Maven, Apache Tomcat
+  - **🚀 Features:** REST/AJAX controllers, date/time filtering, color-coded calorie indicators
+  - **📊 My Contribution:** Implemented persistence layer, REST controllers, Bootstrap client, custom enhancements
 
 ---
 
