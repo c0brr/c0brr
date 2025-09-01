@@ -12,12 +12,14 @@
 **Backend Development:**
 - **Languages:** Java 8-17+, SQL
 - **Frameworks:** Spring (Core, Boot, MVC, Data, Security), Hibernate/JPA
-- **ORM & Code Generation:** Lombok, MapStruct
 - **Databases:** PostgreSQL, H2
-- **API:** REST, Swagger/OpenAPI 3
+- **Documentation:** Swagger/OpenAPI 3
 - **Web Servers:** Tomcat
-- **Testing:** JUnit 4-5, Mockito, AssertJ, Hamcrest
+- **Testing:** JUnit5, Mockito, AssertJ, Hamcrest
 - **Build Tools:** Maven, Gradle
+- **Containerization & Orchestration:** Docker, Docker Compose
+- **Message Brokers:** RabbitMQ
+- **Extra tools:** Lombok, MapStruct
 - **Version Control:** Git, GitHub
 - **IDE:** IntelliJ IDEA
 
