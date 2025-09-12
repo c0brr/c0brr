@@ -3,7 +3,7 @@
 **📍 Based in:** Samara, Russia  
 **🎓 Education:** Bachelor's degree in Business Informatics, Samara University (2011-2015)  
 **🗣️ Languages:** Russian (Native), English (Intermediate/B1)  
-**💼 Experience:** 4+ years in Java backend development 
+**💼 Experience:** 2+ years in Java backend development 
 
 ---
 
