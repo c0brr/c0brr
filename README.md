@@ -15,7 +15,7 @@
 - **Databases:** PostgreSQL, H2
 - **Documentation:** Swagger/OpenAPI 3
 - **Web Servers:** Tomcat
-- **Testing:** JUnit5, Mockito, AssertJ, Hamcrest
+- **Testing:** JUnit5, Mockito
 - **Build Tools:** Maven, Gradle
 - **Containerization & Orchestration:** Docker, Docker Compose
 - **Message Brokers:** RabbitMQ
