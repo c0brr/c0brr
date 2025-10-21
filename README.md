@@ -10,7 +10,7 @@
 ### 🛠️ Tech Skill Stack & Tools
 
 **Backend Development:**
-- **Languages:** Java 11+, SQL
+- **Languages:** Java, SQL, Groovy
 - **Frameworks:** Spring (Core, Boot, MVC, Data, Security), Hibernate/JPA
 - **Databases:** PostgreSQL, H2
 - **Documentation:** Swagger/OpenAPI 3
