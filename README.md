@@ -42,9 +42,6 @@
 
 
 <p align="center">
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  </a>
   <a href="https://spring.io/projects/spring-security">
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
   </a>
@@ -57,11 +54,6 @@
   <a href="https://spring.io/projects/spring-webflux">
     <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="70" height="70"/>
-  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="70" height="70" />
 </p>
 ---
 
