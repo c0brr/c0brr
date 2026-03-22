@@ -38,7 +38,7 @@
 ---
 **Current Stack**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" /> <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="60" height="60"/><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" />  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="60" height="60"/><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="60" height="60" />
 
 
 <p align="center">
