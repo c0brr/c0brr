@@ -58,10 +58,8 @@
 </p>
 
 <p align="center">
-  <!-- Иконки для декорации -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" />
-  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="40" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="70" height="70"/>
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="70" height="70" />
 </p>
 ---
 
