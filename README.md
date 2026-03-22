@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Caffeine_Cache-4EAA25?style=for-the-badge&logo=caffeine&logoColor=white" />
-  <img src="https://github.com/brettwooldridge/HikariCP/wiki/Hikari.png" width="50" />
+  <img src="https://docs.spring.io/spring-framework/docs/3.1.3.RELEASE/spring-framework-reference/htmlsingle/images/aop-proxy-call.png" width="250" />
 </p>
 
 ---
