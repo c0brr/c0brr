@@ -38,8 +38,31 @@
 ---
 **Current Stack**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="70" height="70" />
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-security">
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-cloud">
+    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-data">
+    <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-webflux">
+    <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <!-- Иконки для декорации -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" />
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="40" />
+</p>
 ---
 
 ### 🏆 Projects
