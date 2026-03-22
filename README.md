@@ -51,9 +51,6 @@
   <a href="https://spring.io/projects/spring-webflux">
     <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
-    <a href="https://spring.io/projects/spring-mvc">
-    <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Caffeine_Cache-4EAA25?style=for-the-badge&logo=caffeine&logoColor=white" />
   
 </p>
