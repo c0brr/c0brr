@@ -42,9 +42,6 @@
 
 
 <p align="center">
-  <a href="https://spring.io/projects/spring-security">
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  </a>
   <a href="https://spring.io/projects/spring-cloud">
     <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
